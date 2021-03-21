@@ -1,5 +1,7 @@
-### No. I am your father 👨‍👧‍👦
+### Hello there! 🙋‍♂️
 
-And I'm also a Front-end Web Enginner who likes to like juggle his coffee, keyboard and lightsaber 🤹 all at once while trying to build user interfaces.
+I'm a Front-end Web Enginner who enjoys the danger of juggling 🤹 his coffee, keyboard and lightsaber while trying to build user interfaces.
 
-Besides that I’m currently working on my own personal webiste, and also trying to learn react testing, how to use ESLint without losing my mind, and how to better use git and not butcher my repos timeline with wild merges anymore.
+Besides that I’m also:
+ - Working on my own personal webiste.
+ - Learning React testing, how to use ESLint, and how make better use of git and not butcher my repos timeline with wild merges anymore.
