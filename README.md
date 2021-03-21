@@ -1,6 +1,6 @@
 ### Hello there! 🙋‍♂️
 
-I'm a Front-end Web Enginner who enjoys the danger of juggling 🤹 his coffee, keyboard and lightsaber while trying to build user interfaces.
+I'm a Front-end Web Enginner who enjoys the danger of juggling 🤹 his coffee ☕, keyboard ⌨️ and lightsaber 🦯 while trying to build user interfaces.
 
 Besides that I’m also:
  - Working on my own personal webiste.
