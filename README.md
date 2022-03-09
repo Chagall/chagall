@@ -1,6 +1,8 @@
 ## Hey folks! 🙋🏻‍♂️
 
-My name is Fábio, I'm a Full-time Front End Developer, and also a Data Science Msc. Student at University of Colorado Boulder.
+My name is Fábio, I'm a Full-time Front End Developer, and also a Data Science Msc. Student at <img height="16px" src="https://i.imgur.com/n3PlOAo.png"/> University of Colorado Boulder.
+
+
 
 You can usually get in touch with me through:
 
