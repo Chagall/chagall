@@ -13,8 +13,8 @@ You can usually get in touch with me through:
 ## Github Stats:
 
 <p>
-  <img height="180em" inline src="https://github-readme-stats.vercel.app/api?username=chagall&count_private=true&show_icons=true&theme=react&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagall&layout=compact&theme=react"/>
+  <img height="180em" inline src="https://github-readme-stats.vercel.app/api?username=chagall&count_private=true&show_icons=true&theme=calm&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagall&layout=compact&theme=calm"/>
 </p>
 
 #### What I've been listening recently on Spotify:
