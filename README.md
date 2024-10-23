@@ -19,4 +19,4 @@ You can usually get in touch with me through:
 
 #### What I've been listening recently on Spotify:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=chagallkhan&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=chagallkhan&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=chagallkhan&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=chagallkhan&redirect=true)
