@@ -13,7 +13,7 @@ You can usually get in touch with me through:
 ## Github Stats:
 
 <p>
-  <img height="180em" inline src="https://github-readme-stats.vercel.app/api?username=chagall&count_private=true&show_icons=true&theme=react&include_all_commits=true"/>
+  <img height="180em" inline src="https://github-readme-stats.vercel.app/api?username=chagall&show_icons=true&theme=react&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagall&layout=compact&theme=react&langs_count=8&hide=c,html,plsql,css,swift,cmake,makefile,objective-c"/>
 </p>
 
