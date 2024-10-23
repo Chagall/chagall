@@ -7,7 +7,6 @@ My name is Fábio, I'm a Full-time Front End Developer, and also a Data Science 
 You can usually get in touch with me through:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-alves-martins-pereira/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://commit.blue)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/fabioampe/)
 
 ## Github Stats:
