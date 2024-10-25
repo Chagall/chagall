@@ -1,6 +1,10 @@
 ## Hey folks! 🙋🏻‍♂️
 
-My name is Fábio, I'm a Full-time Front End Developer, and also a Data Science Msc. Student at <img height="16px" src="https://i.imgur.com/n3PlOAo.png"/> University of Colorado Boulder.
+I'm Fábio, I'm currently working as Front End Engineer @[Toledo e Souza](https://github.com/Toledo-e-Souza), 
+
+Besides that I'm studying Intelligent Systems and Application as Computer Science MS Student at UFG <img height="16px" src="https://i.imgur.com/3IcBgIN.png" /> 
+
+On the side I'm also working on my online Data Science Msc. degree at <img height="16px" src="https://i.imgur.com/n3PlOAo.png"/> University of Colorado Boulder.
 
 
 
